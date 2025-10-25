@@ -70,7 +70,8 @@ Modify these parameters in the script(s):
 ---
 
 ## Dashboard
-<img width="1116" height="629" alt="Screenshot 2025-10-25 013508" src="https://github.com/user-attachments/assets/1e38d690-2759-46a8-b80c-142cce3a445b" />
+<img width="1116" height="629" alt="Screenshot 2025-10-25 013508" src="https://github.com/user-attachments/assets/934eedeb-c7c6-46c9-b1ad-59bc87c70f43" />
+
 
 
 
